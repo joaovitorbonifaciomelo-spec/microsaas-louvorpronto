@@ -13,3 +13,6 @@ supabase/.temp
 
 .vercel
 .env*
+
+# configuracao local do Claude (contem chave do Supabase)
+.mcp.json
